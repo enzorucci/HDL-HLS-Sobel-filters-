@@ -36,6 +36,9 @@ Pasos para utilizar el proyecto
 
 12) Conectar la placa ZYBO a la pc y ejecutar la aplicación edgeDetect. 
 
+## Referencias
+
+*A comparative study between HLS and HDL on SoC for image processing applications*. R. Millón, E. Frati, and E. Rucci, Elektron (ISSN 2525-0159), vol. 4, num. 2, págs. 100-106, doi. 10.37537/rev.elektron.4.2.117.2020, 2020.
 
 
 
